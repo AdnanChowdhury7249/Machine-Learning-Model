@@ -1,0 +1,21 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+*.toc
+*.pyz
+*.pkg
+*.zip
+*.exe
+*.dll
+*.pyd
+*.pyc
+__pycache__/
+localpycs/
+xref-*.html
+warn-*.txt
+
+# IDE and OS-specific
+.vscode/
+.DS_Store
+Thumbs.db
