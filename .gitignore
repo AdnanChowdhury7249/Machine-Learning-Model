@@ -19,3 +19,16 @@ warn-*.txt
 .vscode/
 .DS_Store
 Thumbs.db
+
+# PyInstaller build folders and files
+*.spec
+*.toc
+*.pyz
+*.pkg
+*.zip
+*.html
+*.txt
+build/
+dist/
+__pycache__/
+localpycs/
